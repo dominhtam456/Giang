@@ -1,0 +1,5 @@
+                      <p style="font-size: 16px; color: white;">I made a little album</p>
+                      <p style="font-size: 16px; color: white;">it's not much but this is all I can collect</p>
+                      <p style="font-size: 16px; color: white;">hope it'll bring back good and laughable memory to you</p>
+                      <br />
+                      <p style="font-size: 16px; color: white;">Enjoy.</p>
