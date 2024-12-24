@@ -2,9 +2,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap);
 
 @media screen and (max-width:800px) and (max-height:520px){
-  body{
-    display:none
-  }
+    html {
+        visibility: hidden;
+    }
 }
 
 html {
